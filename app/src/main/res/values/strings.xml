@@ -2,6 +2,7 @@
     <string name="app_name">sample</string>
     <string name="hello">Hello Xiaoming</string>
     <string name="recyclerview">recyclerView</string>
+    <string name="ScreenSaver">ScreenSaver</string>
     <string name="remove">remove</string>
     <string name="add">add</string>
 </resources>
