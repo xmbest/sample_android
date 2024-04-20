@@ -28,6 +28,9 @@ class MainActivity : AppCompatActivity() {
         binding.btnToScreenSaver.setOnClickListener{
             startActivity(Intent(this,ScreenSaverActivity::class.java))
         }
+        binding.btnToTest.setOnClickListener{
+            startActivity(Intent(this,TestActivity::class.java))
+        }
     }
 
     private fun initData() {
